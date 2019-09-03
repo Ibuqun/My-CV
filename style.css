@@ -1,0 +1,27 @@
+img {
+    float: left;
+    margin-right: 10px;
+    clear:both;
+    width:8%;
+    height:129px;  
+    border-radius: 50%;
+
+}
+
+div {float: left;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    clear:both;
+    width:45%;
+    height:10; }
+.contact {
+    
+    margin-left: 75%;
+    overflow:auto;
+    display:block;
+}
+
+h1 {font-family: serif;
+        font-size: 50px;}
+
+
